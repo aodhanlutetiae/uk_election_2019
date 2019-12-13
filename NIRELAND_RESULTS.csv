@@ -1,0 +1,103 @@
+constituency,code,direction,win_lose,party,candidate,votes,perc_share,change
+Belfast East,N06000001,DUP HOLD,win,Democratic Unionist Party,Gavin Robinson,"20,874",49.2,-6.6
+Belfast East,N06000001,DUP HOLD,lose,Alliance Party,Naomi Long,"19,055",44.9,+8.9
+Belfast East,N06000001,DUP HOLD,lose,Ulster Unionist Party,Carl McClean,"2,516",5.9,+2.6
+Belfast North,N06000002,SF GAIN FROM DUP,win,Sinn Féin,John Finucane,"23,078",47.1,+5.4
+Belfast North,N06000002,SF GAIN FROM DUP,lose,Democratic Unionist Party,Nigel Dodds,"21,135",43.1,-3.1
+Belfast North,N06000002,SF GAIN FROM DUP,lose,Alliance Party,Nuala McAllister,"4,824",9.8,+4.4
+Belfast South,N06000003,SDLP GAIN FROM DUP,win,Social Democratic & Labour Party,Claire Hanna,"27,079",57.2,+31.3
+Belfast South,N06000003,SDLP GAIN FROM DUP,lose,Democratic Unionist Party,Emma Little Pengelly,"11,678",24.7,-5.8
+Belfast South,N06000003,SDLP GAIN FROM DUP,lose,Alliance Party,Paula Bradshaw,"6,786",14.3,-3.9
+Belfast South,N06000003,SDLP GAIN FROM DUP,lose,Ulster Unionist Party,Michael Henderson,"1,259",2.7,-0.8
+Belfast South,N06000003,SDLP GAIN FROM DUP,lose,Aontú,Chris McHugh,550,1.2,+1.2
+Belfast West,N06000004,SF HOLD,win,Sinn Féin,Paul Maskey,"20,866",53.8,-12.9
+Belfast West,N06000004,SF HOLD,lose,People Before Profit,Gerry Carroll,"6,194",16.0,+5.8
+Belfast West,N06000004,SF HOLD,lose,Democratic Unionist Party,Frank McCoubrey,"5,220",13.5,0.0
+Belfast West,N06000004,SF HOLD,lose,Social Democratic & Labour Party,Paul Doherty,"2,985",7.7,+0.7
+Belfast West,N06000004,SF HOLD,lose,Alliance Party,Donnamarie Higgins,"1,882",4.9,+3.1
+Belfast West,N06000004,SF HOLD,lose,Aontú,Monica Digney,"1,635",4.2,+4.2
+East Antrim,N06000005,DUP HOLD,win,Democratic Unionist Party,Sammy Wilson,"16,871",45.3,-12.1
+East Antrim,N06000005,DUP HOLD,lose,Alliance Party,Danny Donnelly,"10,165",27.3,+11.7
+East Antrim,N06000005,DUP HOLD,lose,Ulster Unionist Party,Steve Aiken,"5,475",14.7,+2.8
+East Antrim,N06000005,DUP HOLD,lose,Sinn Féin,Oliver McMullan,"2,120",5.7,-3.6
+East Antrim,N06000005,DUP HOLD,lose,Conservative,Aaron Rankin,"1,043",2.8,+0.3
+East Antrim,N06000005,DUP HOLD,lose,Social Democratic & Labour Party,Angela Mulholland,902,2.4,-0.9
+East Antrim,N06000005,DUP HOLD,lose,Green,Philip Randle,685,1.8,+1.8
+East Londonderry,N06000006,DUP HOLD,win,Democratic Unionist Party,Gregory Campbell,"15,765",40.1,-8.0
+East Londonderry,N06000006,DUP HOLD,lose,Social Democratic & Labour Party,Cara Hunter,"6,158",15.7,+4.9
+East Londonderry,N06000006,DUP HOLD,lose,Sinn Féin,Dermot Nicholl,"6,128",15.6,-10.9
+East Londonderry,N06000006,DUP HOLD,lose,Alliance Party,Chris McCaw,"5,921",15.1,+8.9
+East Londonderry,N06000006,DUP HOLD,lose,Ulster Unionist Party,Richard Holmes,"3,599",9.2,+1.5
+East Londonderry,N06000006,DUP HOLD,lose,Aontú,Seán McNicholl,"1,731",4.4,+4.4
+Fermanagh & South Tyrone,N06000007,SF HOLD,win,Sinn Féin,Michelle Gildernew,"21,986",43.3,-3.9
+Fermanagh & South Tyrone,N06000007,SF HOLD,lose,Ulster Unionist Party,Tom Elliott,"21,929",43.2,-2.3
+Fermanagh & South Tyrone,N06000007,SF HOLD,lose,Social Democratic & Labour Party,Adam Gannon,"3,446",6.8,+2.0
+Fermanagh & South Tyrone,N06000007,SF HOLD,lose,Alliance Party,Matthew Beaumont,"2,650",5.2,+3.6
+Fermanagh & South Tyrone,N06000007,SF HOLD,lose,Independent,Caroline Wheeler,751,1.5,+1.5
+Foyle,N06000008,SDLP GAIN FROM SF,win,Social Democratic & Labour Party,Colum Eastwood,"26,881",57.0,+17.7
+Foyle,N06000008,SDLP GAIN FROM SF,lose,Sinn Féin,Elisha McCallion,"9,771",20.7,-19.0
+Foyle,N06000008,SDLP GAIN FROM SF,lose,Democratic Unionist Party,Gary Middleton,"4,772",10.1,-6.0
+Foyle,N06000008,SDLP GAIN FROM SF,lose,Aontú,Anne McCloskey,"2,032",4.3,+4.3
+Foyle,N06000008,SDLP GAIN FROM SF,lose,People Before Profit,Shaun Harkin,"1,332",2.8,-0.2
+Foyle,N06000008,SDLP GAIN FROM SF,lose,Alliance Party,Rachael Ferguson,"1,267",2.7,+0.8
+Foyle,N06000008,SDLP GAIN FROM SF,lose,Ulster Unionist Party,Darren Guy,"1,088",2.3,+2.3
+Lagan Valley,N06000009,DUP HOLD,win,Democratic Unionist Party,Jeffrey Donaldson,"19,586",43.1,-16.4
+Lagan Valley,N06000009,DUP HOLD,lose,Alliance Party,Sorcha Eastwood,"13,087",28.8,+17.7
+Lagan Valley,N06000009,DUP HOLD,lose,Ulster Unionist Party,Robbie Butler,"8,606",19.0,+2.2
+Lagan Valley,N06000009,DUP HOLD,lose,Social Democratic & Labour Party,Ally Haydock,"1,758",3.9,-3.7
+Lagan Valley,N06000009,DUP HOLD,lose,Sinn Féin,Gary McCleave,"1,098",2.4,-1.1
+Lagan Valley,N06000009,DUP HOLD,lose,Conservative,Gary Hynds,955,2.1,+1.1
+Lagan Valley,N06000009,DUP HOLD,lose,UKIP,Alan Love,315,0.7,+0.7
+Mid Ulster,N06000010,SF HOLD,win,Sinn Féin,Francie Molloy,"20,473",45.9,-8.6
+Mid Ulster,N06000010,SF HOLD,lose,Democratic Unionist Party,Keith Buchanan,"10,936",24.5,-2.4
+Mid Ulster,N06000010,SF HOLD,lose,Social Democratic & Labour Party,Denise Johnston,"6,384",14.3,+4.5
+Mid Ulster,N06000010,SF HOLD,lose,Alliance Party,Mel Boyle,"3,526",7.9,+5.6
+Mid Ulster,N06000010,SF HOLD,lose,Ulster Unionist Party,Neil Richardson,"2,611",5.9,-0.6
+Mid Ulster,N06000010,SF HOLD,lose,Independent,Conor Rafferty,690,1.5,+1.5
+Newry & Armagh,N06000011,SF HOLD,win,Sinn Féin,Mickey Brady,"20,287",40.0,-8.0
+Newry & Armagh,N06000011,SF HOLD,lose,Democratic Unionist Party,William Irwin,"11,000",21.7,-2.9
+Newry & Armagh,N06000011,SF HOLD,lose,Social Democratic & Labour Party,Pete Byrne,"9,449",18.6,+1.7
+Newry & Armagh,N06000011,SF HOLD,lose,Alliance Party,Jackie Coade,"4,211",8.3,+5.9
+Newry & Armagh,N06000011,SF HOLD,lose,Ulster Unionist Party,Sam Nicholson,"4,204",8.3,0.0
+Newry & Armagh,N06000011,SF HOLD,lose,Aontú,Martin Kelly,"1,628",3.2,+3.2
+North Antrim,N06000012,DUP HOLD,win,Democratic Unionist Party,Ian Paisley,"20,860",47.4,-11.5
+North Antrim,N06000012,DUP HOLD,lose,Ulster Unionist Party,Robin Swann,"8,139",18.5,+11.3
+North Antrim,N06000012,DUP HOLD,lose,Alliance Party,Patricia O'Lynn,"6,231",14.1,+8.5
+North Antrim,N06000012,DUP HOLD,lose,Sinn Féin,Cara McShane,"5,632",12.8,-3.5
+North Antrim,N06000012,DUP HOLD,lose,Social Democratic & Labour Party,Margaret McKillop,"2,943",6.7,+1.4
+North Antrim,N06000012,DUP HOLD,lose,Independent,Stephen Palmer,246,0.6,+0.6
+North Down,N06000013,APNI GAIN FROM IND,win,Alliance Party,Stephen Farry,"18,358",45.2,+35.9
+North Down,N06000013,APNI GAIN FROM IND,lose,Democratic Unionist Party,Alex Easton,"15,390",37.9,-0.3
+North Down,N06000013,APNI GAIN FROM IND,lose,Ulster Unionist Party,Alan Chambers,"4,936",12.1,+12.1
+North Down,N06000013,APNI GAIN FROM IND,lose,Conservative,Matthew Robinson,"1,959",4.8,+2.4
+South Antrim,N06000014,DUP HOLD,win,Democratic Unionist Party,Paul Girvan,"15,149",35.3,-3.0
+South Antrim,N06000014,DUP HOLD,lose,Ulster Unionist Party,Danny Kinahan,"12,460",29.0,-1.8
+South Antrim,N06000014,DUP HOLD,lose,Alliance Party,John Blair,"8,190",19.1,+11.6
+South Antrim,N06000014,DUP HOLD,lose,Sinn Féin,Declan Kearney,"4,887",11.4,-6.7
+South Antrim,N06000014,DUP HOLD,lose,Social Democratic & Labour Party,Roisin Lynch,"2,288",5.3,-0.1
+South Down,N06000015,SF HOLD,win,Sinn Féin,Chris Hazzard,"16,137",32.4,-7.5
+South Down,N06000015,SF HOLD,lose,Social Democratic & Labour Party,Michael Savage,"14,517",29.2,-6.0
+South Down,N06000015,SF HOLD,lose,Democratic Unionist Party,Glyn Hanna,"7,619",15.3,-2.1
+South Down,N06000015,SF HOLD,lose,Alliance Party,Patrick Brown,"6,916",13.9,+10.3
+South Down,N06000015,SF HOLD,lose,Ulster Unionist Party,Jill Macauley,"3,307",6.6,+2.7
+South Down,N06000015,SF HOLD,lose,Aontú,Paul Brady,"1,266",2.5,+2.5
+Strangford,N06000016,DUP HOLD,win,Democratic Unionist Party,Jim Shannon,"17,705",47.2,-14.8
+Strangford,N06000016,DUP HOLD,lose,Alliance Party,Kellie Armstrong,"10,634",28.4,+13.7
+Strangford,N06000016,DUP HOLD,lose,Ulster Unionist Party,Philip Smith,"4,023",10.7,-0.7
+Strangford,N06000016,DUP HOLD,lose,Social Democratic & Labour Party,Joe Boyle,"1,994",5.3,-0.9
+Strangford,N06000016,DUP HOLD,lose,Conservative,Grant Abraham,"1,476",3.9,+2.6
+Strangford,N06000016,DUP HOLD,lose,Green,Maurice Macartney,790,2.1,+0.5
+Strangford,N06000016,DUP HOLD,lose,Sinn Féin,Ryan Carlin,555,1.5,-1.3
+Strangford,N06000016,DUP HOLD,lose,UKIP,Robert Stephenson,308,0.8,+0.8
+Upper Bann,N06000017,DUP HOLD,win,Democratic Unionist Party,Carla Lockhart,"20,501",41.0,-2.6
+Upper Bann,N06000017,DUP HOLD,lose,Sinn Féin,John O'Dowd,"12,291",24.6,-3.4
+Upper Bann,N06000017,DUP HOLD,lose,Alliance Party,Eóin Tennyson,"6,433",12.9,+8.3
+Upper Bann,N06000017,DUP HOLD,lose,Ulster Unionist Party,Doug Beattie,"6,197",12.4,-3.0
+Upper Bann,N06000017,DUP HOLD,lose,Social Democratic & Labour Party,Dolores Kelly,"4,623",9.2,+0.7
+West Tyrone,N06000018,SF WIN,win,Sinn Féin,Órfhlaith Begley,"16,544",40.2,-10.6
+West Tyrone,N06000018,SF WIN,lose,Democratic Unionist Party,Thomas Buchanan,"9,066",22.0,-4.9
+West Tyrone,N06000018,SF WIN,lose,Social Democratic & Labour Party,Daniel McCrossan,"7,330",17.8,+4.8
+West Tyrone,N06000018,SF WIN,lose,Alliance Party,Stephen Donnelly,"3,979",9.7,+7.4
+West Tyrone,N06000018,SF WIN,lose,Ulster Unionist Party,Andy McKane,"2,774",6.7,+1.6
+West Tyrone,N06000018,SF WIN,lose,Aontú,James Hope,972,2.4,+2.4
+West Tyrone,N06000018,SF WIN,lose,Green,Susan Glass,521,1.3,+0.3

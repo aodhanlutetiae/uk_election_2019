@@ -1,0 +1,293 @@
+constituency,code,direction,win_lose,party,candidate,votes,perc_share,change
+Glasgow North,S14000031,SNP HOLD,win,Scottish National Party,Patrick Grady,"16,982",46.9,+9.3
+Glasgow North,S14000031,SNP HOLD,lose,Labour,Pam Duncan-Glancy,"11,381",31.4,-3.0
+Glasgow North,S14000031,SNP HOLD,lose,Conservative,Tony Curtis,"3,806",10.5,-4.2
+Glasgow North,S14000031,SNP HOLD,lose,Liberal Democrat,Andrew Chamberlain,"2,394",6.6,+3.2
+Glasgow North,S14000031,SNP HOLD,lose,Green,Cass Macgregor,"1,308",3.6,-6.1
+Glasgow North,S14000031,SNP HOLD,lose,The Brexit Party,Dionne Cocozza,320,0.9,+0.9
+Glasgow North East,S14000032,SNP GAIN FROM LAB,win,Scottish National Party,Anne McLaughlin,"15,911",46.9,+4.7
+Glasgow North East,S14000032,SNP GAIN FROM LAB,lose,Labour,Paul Sweeney,"13,363",39.4,-3.5
+Glasgow North East,S14000032,SNP GAIN FROM LAB,lose,Conservative,Lauren Bennie,"3,558",10.5,-2.4
+Glasgow North East,S14000032,SNP GAIN FROM LAB,lose,Liberal Democrat,Nicholas Moohan,"1,093",3.2,+1.2
+Glasgow North West,S14000033,SNP HOLD,win,Scottish National Party,Carol Monaghan,"19,678",49.5,+7.0
+Glasgow North West,S14000033,SNP HOLD,lose,Labour,Patricia Ferguson,"11,319",28.5,-7.4
+Glasgow North West,S14000033,SNP HOLD,lose,Conservative,Ade Aibinu,"6,022",15.2,-2.9
+Glasgow North West,S14000033,SNP HOLD,lose,Liberal Democrat,James Speirs,"2,716",6.8,+3.3
+Glasgow South,S14000034,SNP HOLD,win,Scottish National Party,Stewart McDonald,"22,829",48.1,+7.0
+Glasgow South,S14000034,SNP HOLD,lose,Labour,Johann Lamont,"13,824",29.1,-7.4
+Glasgow South,S14000034,SNP HOLD,lose,Conservative,Kyle Thornton,"6,237",13.1,-5.9
+Glasgow South,S14000034,SNP HOLD,lose,Liberal Democrat,Carole Ford,"2,786",5.9,+2.6
+Glasgow South,S14000034,SNP HOLD,lose,Green,Dan Hutchison,"1,251",2.6,+2.6
+Glasgow South,S14000034,SNP HOLD,lose,The Brexit Party,Danyaal Raja,516,1.1,+1.1
+Glasgow South West,S14000035,SNP HOLD,win,Scottish National Party,Chris Stephens,"17,643",47.9,+7.2
+Glasgow South West,S14000035,SNP HOLD,lose,Labour,Matt Kerr,"12,743",34.6,-5.9
+Glasgow South West,S14000035,SNP HOLD,lose,Conservative,Thomas Haddow,"4,224",11.5,-4.2
+Glasgow South West,S14000035,SNP HOLD,lose,Liberal Democrat,Ben Denton-Cardew,"1,435",3.9,+2.0
+Glasgow South West,S14000035,SNP HOLD,lose,The Brexit Party,Peter Brown,802,2.2,+2.2
+Aberdeen North,S14000001,SNP HOLD,win,Scottish National Party,Kirsty Blackman,"20,205",54.0,+12.7
+Aberdeen North,S14000001,SNP HOLD,lose,Conservative,Ryan Houghton,"7,535",20.1,-2.6
+Aberdeen North,S14000001,SNP HOLD,lose,Labour,Nurul Ali,"4,939",13.2,-16.8
+Aberdeen North,S14000001,SNP HOLD,lose,Liberal Democrat,Isobel Davidson,"2,846",7.6,+3.0
+Aberdeen North,S14000001,SNP HOLD,lose,The Brexit Party,Seb Leslie,"1,008",2.7,+2.7
+Aberdeen North,S14000001,SNP HOLD,lose,Green,Guy Ingerson,880,2.4,+2.4
+Dunbartonshire East,S14000018,SNP GAIN FROM LD,win,Scottish National Party,Amy Callaghan,"19,672",37.1,+6.8
+Dunbartonshire East,S14000018,SNP GAIN FROM LD,lose,Liberal Democrat,Jo Swinson,"19,523",36.8,-3.8
+Dunbartonshire East,S14000018,SNP GAIN FROM LD,lose,Conservative,Pam Gosal,"7,455",14.1,-0.5
+Dunbartonshire East,S14000018,SNP GAIN FROM LD,lose,Labour,Callum McNally,"4,839",9.1,-5.4
+Dunbartonshire East,S14000018,SNP GAIN FROM LD,lose,Green,Carolynn Scrimgeour,916,1.7,+1.7
+Dunbartonshire East,S14000018,SNP GAIN FROM LD,lose,Independent,Rosie Dickson,221,0.4,+0.4
+Dunbartonshire East,S14000018,SNP GAIN FROM LD,lose,UKIP,Donald MacKay,208,0.4,+0.4
+Dunbartonshire East,S14000018,SNP GAIN FROM LD,lose,Scottish Family Party,Liam McKechnie,197,0.4,+0.4
+Aberdeen South,S14000002,SNP GAIN FROM CON,win,Scottish National Party,Stephen Flynn,"20,388",44.7,+13.2
+Aberdeen South,S14000002,SNP GAIN FROM CON,lose,Conservative,Douglas Lumsden,"16,398",35.9,-6.2
+Aberdeen South,S14000002,SNP GAIN FROM CON,lose,Liberal Democrat,Ian Yuill,"5,018",11.0,+5.1
+Aberdeen South,S14000002,SNP GAIN FROM CON,lose,Labour,Shona Simpson,"3,834",8.4,-12.1
+Airdrie & Shotts,S14000003,SNP HOLD,win,Scottish National Party,Neil Gray,"17,929",45.1,+7.5
+Airdrie & Shotts,S14000003,SNP HOLD,lose,Labour,Helen McFarlane,"12,728",32.0,-5.1
+Airdrie & Shotts,S14000003,SNP HOLD,lose,Conservative,Lorraine Nolan,"7,011",17.6,-5.6
+Airdrie & Shotts,S14000003,SNP HOLD,lose,Liberal Democrat,William Crossman,"1,419",3.6,+1.5
+Airdrie & Shotts,S14000003,SNP HOLD,lose,Green,Rosemary McGowan,685,1.7,+1.7
+Angus,S14000004,SNP GAIN FROM CON,win,Scottish National Party,Dave Doogan,"21,216",49.1,+10.6
+Angus,S14000004,SNP GAIN FROM CON,lose,Conservative,Kirstene Hair,"17,421",40.4,-4.8
+Angus,S14000004,SNP GAIN FROM CON,lose,Liberal Democrat,Ben Lawrie,"2,482",5.7,+2.5
+Angus,S14000004,SNP GAIN FROM CON,lose,Labour,Monique Miller,"2,051",4.8,-8.3
+Argyll & Bute,S14000005,SNP HOLD,win,Scottish National Party,Brendan O'Hara,"21,040",43.8,+7.8
+Argyll & Bute,S14000005,SNP HOLD,lose,Conservative,Gary Mulvaney,"16,930",35.2,+2.0
+Argyll & Bute,S14000005,SNP HOLD,lose,Liberal Democrat,Alan Reid,"6,832",14.2,-4.0
+Argyll & Bute,S14000005,SNP HOLD,lose,Labour,Rhea Barnes,"3,248",6.8,-5.8
+"Ayr, Carrick & Cumnock",S14000006,SNP GAIN FROM CON,win,Scottish National Party,Allan Dorans,"20,272",43.5,+9.4
+"Ayr, Carrick & Cumnock",S14000006,SNP GAIN FROM CON,lose,Conservative,Martin Dowey,"17,943",38.5,-1.6
+"Ayr, Carrick & Cumnock",S14000006,SNP GAIN FROM CON,lose,Labour,Duncan Townson,"6,219",13.3,-10.5
+"Ayr, Carrick & Cumnock",S14000006,SNP GAIN FROM CON,lose,Liberal Democrat,Helena Bongard,"2,158",4.6,+2.7
+Banff & Buchan,S14000007,CON HOLD,win,Conservative,David Duguid,"21,182",50.1,+2.2
+Banff & Buchan,S14000007,CON HOLD,lose,Scottish National Party,Paul Robertson,"17,064",40.4,+1.3
+Banff & Buchan,S14000007,CON HOLD,lose,Liberal Democrat,Alison Smith,"2,280",5.4,+1.9
+Banff & Buchan,S14000007,CON HOLD,lose,Labour,Brian Balcombe,"1,734",4.1,-5.3
+"Berwickshire, Roxburgh & Selkirk",S14000008,CON HOLD,win,Conservative,John Lamont,"25,747",48.4,-5.4
+"Berwickshire, Roxburgh & Selkirk",S14000008,CON HOLD,lose,Scottish National Party,Calum Kerr,"20,599",38.8,+6.0
+"Berwickshire, Roxburgh & Selkirk",S14000008,CON HOLD,lose,Liberal Democrat,Jenny Marr,"4,287",8.1,+3.3
+"Berwickshire, Roxburgh & Selkirk",S14000008,CON HOLD,lose,Labour,Ian Davidson,"2,513",4.7,-3.9
+"Caithness, Sutherland & Easter Ross",S14000009,LD HOLD,win,Liberal Democrat,Jamie Stone,"11,705",37.2,+1.4
+"Caithness, Sutherland & Easter Ross",S14000009,LD HOLD,lose,Scottish National Party,Karl Rosie,"11,501",36.6,+7.4
+"Caithness, Sutherland & Easter Ross",S14000009,LD HOLD,lose,Conservative,Andrew Sinclair,"5,176",16.5,-6.2
+"Caithness, Sutherland & Easter Ross",S14000009,LD HOLD,lose,Labour,Cheryl McDonald,"1,936",6.2,-6.2
+"Caithness, Sutherland & Easter Ross",S14000009,LD HOLD,lose,The Brexit Party,Sandra Skinner,"1,139",3.6,+3.6
+Ayrshire Central,S14000010,SNP HOLD,win,Scottish National Party,Philippa Whitford,"21,486",46.2,+9.0
+Ayrshire Central,S14000010,SNP HOLD,lose,Conservative,Derek Stillie,"16,182",34.8,+0.4
+Ayrshire Central,S14000010,SNP HOLD,lose,Labour,Louise McPhater,"6,583",14.1,-11.9
+Ayrshire Central,S14000010,SNP HOLD,lose,Liberal Democrat,Emma Farthing,"2,283",4.9,+2.6
+"Coatbridge, Chryston & Bellshill",S14000011,SNP GAIN FROM LAB,win,Scottish National Party,Steven Bonnar,"22,680",47.0,+7.9
+"Coatbridge, Chryston & Bellshill",S14000011,SNP GAIN FROM LAB,lose,Labour,Hugh Gaffney,"17,056",35.4,-7.2
+"Coatbridge, Chryston & Bellshill",S14000011,SNP GAIN FROM LAB,lose,Conservative,Nathan Wilson,"6,113",12.7,-3.6
+"Coatbridge, Chryston & Bellshill",S14000011,SNP GAIN FROM LAB,lose,Liberal Democrat,David Stevens,"1,564",3.2,+1.2
+"Coatbridge, Chryston & Bellshill",S14000011,SNP GAIN FROM LAB,lose,Green,Patrick McAleer,808,1.7,+1.7
+"Cumbernauld, Kilsyth & Kirkintilloch East",S14000012,SNP HOLD,win,Scottish National Party,Stuart McDonald,"24,158",52.9,+9.3
+"Cumbernauld, Kilsyth & Kirkintilloch East",S14000012,SNP HOLD,lose,Labour,James McPhilemy,"11,182",24.5,-9.4
+"Cumbernauld, Kilsyth & Kirkintilloch East",S14000012,SNP HOLD,lose,Conservative,Roz McCall,"7,380",16.2,-2.1
+"Cumbernauld, Kilsyth & Kirkintilloch East",S14000012,SNP HOLD,lose,Liberal Democrat,Susan Murray,"2,966",6.5,+3.7
+Dumfries & Galloway,S14000013,CON HOLD,win,Conservative,Alister Jack,"22,678",44.1,+0.8
+Dumfries & Galloway,S14000013,CON HOLD,lose,Scottish National Party,Richard Arkless,"20,873",40.6,+8.2
+Dumfries & Galloway,S14000013,CON HOLD,lose,Labour,Ted Thompson,"4,745",9.2,-11.7
+Dumfries & Galloway,S14000013,CON HOLD,lose,Liberal Democrat,McNabb Laurie,"3,133",6.1,+3.7
+"Dumfriesshire, Clydesdale & Tweeddale",S14000014,CON HOLD,win,Conservative,David Mundell,"22,611",46.0,-3.4
+"Dumfriesshire, Clydesdale & Tweeddale",S14000014,CON HOLD,lose,Scottish National Party,Amanda Burgauer,"18,830",38.3,+8.2
+"Dumfriesshire, Clydesdale & Tweeddale",S14000014,CON HOLD,lose,Labour,Nick Chisholm,"4,172",8.5,-8.1
+"Dumfriesshire, Clydesdale & Tweeddale",S14000014,CON HOLD,lose,Liberal Democrat,John Ferry,"3,540",7.2,+3.2
+Dundee East,S14000015,SNP HOLD,win,Scottish National Party,Stewart Hosie,"24,361",53.8,+11.0
+Dundee East,S14000015,SNP HOLD,lose,Conservative,Philip Scott,"10,986",24.3,-3.1
+Dundee East,S14000015,SNP HOLD,lose,Labour,Rosalind Garton,"6,045",13.4,-12.7
+Dundee East,S14000015,SNP HOLD,lose,Liberal Democrat,Michael Crichton,"3,573",7.9,+4.1
+Dundee East,S14000015,SNP HOLD,lose,Independent,George Morton,312,0.7,+0.7
+Dundee West,S14000016,SNP HOLD,win,Scottish National Party,Chris Law,"22,355",53.8,+7.1
+Dundee West,S14000016,SNP HOLD,lose,Labour,Jim Malone,"10,096",24.3,-8.8
+Dundee West,S14000016,SNP HOLD,lose,Conservative,Tess White,"5,149",12.4,-3.8
+Dundee West,S14000016,SNP HOLD,lose,Liberal Democrat,Daniel Coleman,"2,468",5.9,+2.9
+Dundee West,S14000016,SNP HOLD,lose,The Brexit Party,Stuart Waiton,"1,271",3.1,+3.1
+Dundee West,S14000016,SNP HOLD,lose,Christian Peoples Alliance,Quinta Arrey,240,0.6,+0.6
+Dunfermline & West Fife,S14000017,SNP HOLD,win,Scottish National Party,Douglas Chapman,"23,727",44.4,+8.8
+Dunfermline & West Fife,S14000017,SNP HOLD,lose,Labour,Cara Hilton,"13,028",24.4,-9.5
+Dunfermline & West Fife,S14000017,SNP HOLD,lose,Conservative,Moira Benny,"11,207",21.0,-3.7
+Dunfermline & West Fife,S14000017,SNP HOLD,lose,Liberal Democrat,Rebecca Bell,"4,262",8.0,+2.1
+Dunfermline & West Fife,S14000017,SNP HOLD,lose,Green,Mags Hall,"1,258",2.4,+2.4
+"East Kilbride, Strathaven & Lesmahagow",S14000019,SNP HOLD,win,Scottish National Party,Lisa Cameron,"26,113",46.4,+7.5
+"East Kilbride, Strathaven & Lesmahagow",S14000019,SNP HOLD,lose,Labour,Monique McAdams,"12,791",22.7,-9.0
+"East Kilbride, Strathaven & Lesmahagow",S14000019,SNP HOLD,lose,Conservative,Gail MacGregor,"11,961",21.2,-4.1
+"East Kilbride, Strathaven & Lesmahagow",S14000019,SNP HOLD,lose,Liberal Democrat,Ewan McRobert,"3,760",6.7,+3.7
+"East Kilbride, Strathaven & Lesmahagow",S14000019,SNP HOLD,lose,Green,Erica Bradley-Young,"1,153",2.0,+2.0
+"East Kilbride, Strathaven & Lesmahagow",S14000019,SNP HOLD,lose,UKIP,David Mackay,559,1.0,-0.2
+East Lothian,S14000020,SNP GAIN FROM LAB,win,Scottish National Party,Kenny MacAskill,"21,156",36.2,+5.6
+East Lothian,S14000020,SNP GAIN FROM LAB,lose,Labour,Martin Whitfield,"17,270",29.5,-6.6
+East Lothian,S14000020,SNP GAIN FROM LAB,lose,Conservative,Craig Hoy,"15,523",26.5,-3.1
+East Lothian,S14000020,SNP GAIN FROM LAB,lose,Liberal Democrat,Robert O'Riordan,"4,071",7.0,+3.8
+East Lothian,S14000020,SNP GAIN FROM LAB,lose,UKIP,David Sisson,493,0.8,+0.8
+Edinburgh South West,S14000025,SNP HOLD,win,Scottish National Party,Joanna Cherry,"24,830",47.6,+12.0
+Edinburgh South West,S14000025,SNP HOLD,lose,Conservative,Callum Laidlaw,"12,848",24.6,-8.7
+Edinburgh South West,S14000025,SNP HOLD,lose,Labour,Sophie Cooke,"7,478",14.3,-12.4
+Edinburgh South West,S14000025,SNP HOLD,lose,Liberal Democrat,Tom Inglis,"4,971",9.5,+5.2
+Edinburgh South West,S14000025,SNP HOLD,lose,Green,Ben Parker,"1,265",2.4,+2.4
+Edinburgh South West,S14000025,SNP HOLD,lose,The Brexit Party,David Ballantine,625,1.2,+1.2
+Edinburgh South West,S14000025,SNP HOLD,lose,Social Democratic Party,Mev Brown,114,0.2,+0.2
+Renfrewshire East,S14000021,SNP GAIN FROM CON,win,Scottish National Party,Kirsten Oswald,"24,877",44.9,+13.7
+Renfrewshire East,S14000021,SNP GAIN FROM CON,lose,Conservative,Paul Masterton,"19,451",35.1,-4.9
+Renfrewshire East,S14000021,SNP GAIN FROM CON,lose,Labour,Carolann Davidson,"6,855",12.4,-14.3
+Renfrewshire East,S14000021,SNP GAIN FROM CON,lose,Liberal Democrat,Andrew McGlynn,"4,174",7.5,+5.5
+Edinburgh East,S14000022,SNP HOLD,win,Scottish National Party,Tommy Sheppard,"23,165",48.4,+5.9
+Edinburgh East,S14000022,SNP HOLD,lose,Labour,Sheila Gilmore,"12,748",26.7,-8.0
+Edinburgh East,S14000022,SNP HOLD,lose,Conservative,Eleanor Price,"6,549",13.7,-4.9
+Edinburgh East,S14000022,SNP HOLD,lose,Liberal Democrat,Jill Reilly,"3,289",6.9,+2.6
+Edinburgh East,S14000022,SNP HOLD,lose,Green,Claire Miller,"2,064",4.3,+4.3
+Edinburgh North & Leith,S14000023,SNP HOLD,win,Scottish National Party,Deidre Brock,"25,925",43.7,+9.7
+Edinburgh North & Leith,S14000023,SNP HOLD,lose,Labour,Gordon Munro,"13,117",22.1,-9.1
+Edinburgh North & Leith,S14000023,SNP HOLD,lose,Conservative,Iain McGill,"11,000",18.5,-8.7
+Edinburgh North & Leith,S14000023,SNP HOLD,lose,Liberal Democrat,Bruce Wilson,"6,635",11.2,+6.6
+Edinburgh North & Leith,S14000023,SNP HOLD,lose,Green,Steve Burgess,"1,971",3.3,+0.3
+Edinburgh North & Leith,S14000023,SNP HOLD,lose,The Brexit Party,Robert Speirs,558,0.9,+0.9
+Edinburgh North & Leith,S14000023,SNP HOLD,lose,Renew,Heather Astbury,138,0.2,+0.2
+Edinburgh South,S14000024,LAB HOLD,win,Labour,Ian Murray,"23,745",47.7,-7.2
+Edinburgh South,S14000024,LAB HOLD,lose,Scottish National Party,Catriona Macdonald,"12,650",25.4,+3.0
+Edinburgh South,S14000024,LAB HOLD,lose,Conservative,Nick Cook,"8,161",16.4,-3.3
+Edinburgh South,S14000024,LAB HOLD,lose,Liberal Democrat,Alan Beal,"3,819",7.7,+4.8
+Edinburgh South,S14000024,LAB HOLD,lose,Green,Kate Nevens,"1,357",2.7,+2.7
+Glasgow East,S14000030,SNP HOLD,win,Scottish National Party,David Linden,"18,357",47.7,+8.9
+Glasgow East,S14000030,SNP HOLD,lose,Labour,Kate Watson,"12,791",33.2,-5.3
+Glasgow East,S14000030,SNP HOLD,lose,Conservative,Thomas Kerr,"5,709",14.8,-4.0
+Glasgow East,S14000030,SNP HOLD,lose,Liberal Democrat,James Harrison,"1,626",4.2,+2.7
+Edinburgh West,S14000026,LD HOLD,win,Liberal Democrat,Christine Jardine,"21,766",39.9,+5.6
+Edinburgh West,S14000026,LD HOLD,lose,Scottish National Party,Sarah Masson,"17,997",33.0,+4.4
+Edinburgh West,S14000026,LD HOLD,lose,Conservative,Graham Hutchison,"9,283",17.0,-4.9
+Edinburgh West,S14000026,LD HOLD,lose,Labour,Craig Bolton,"4,460",8.2,-6.7
+Edinburgh West,S14000026,LD HOLD,lose,Green,Elaine Gunn,"1,027",1.9,+1.9
+Na h-Eileanan an Iar (Western Isles),S14000027,SNP HOLD,win,Scottish National Party,Angus MacNeil,"6,531",45.1,+4.5
+Na h-Eileanan an Iar (Western Isles),S14000027,SNP HOLD,lose,Labour,Alison MacCorquodale,"4,093",28.3,-5.5
+Na h-Eileanan an Iar (Western Isles),S14000027,SNP HOLD,lose,Conservative,Jennifer Ross,"3,216",22.2,+5.7
+Na h-Eileanan an Iar (Western Isles),S14000027,SNP HOLD,lose,Liberal Democrat,Neil Mitchison,637,4.4,+2.7
+Falkirk,S14000028,SNP HOLD,win,Scottish National Party,Johnny McNally,"29,351",52.5,+13.6
+Falkirk,S14000028,SNP HOLD,lose,Conservative,Lynn Munro,"14,403",25.8,-0.4
+Falkirk,S14000028,SNP HOLD,lose,Labour,Safia Ali,"6,243",11.2,-18.6
+Falkirk,S14000028,SNP HOLD,lose,Liberal Democrat,Austin Reid,"3,990",7.1,+5.1
+Falkirk,S14000028,SNP HOLD,lose,Green,Tom McLaughlin,"1,885",3.4,+1.7
+Glasgow Central,S14000029,SNP HOLD,win,Scottish National Party,Alison Thewliss,"19,750",49.2,+4.5
+Glasgow Central,S14000029,SNP HOLD,lose,Labour,Faten Hameed,"13,276",33.1,-5.3
+Glasgow Central,S14000029,SNP HOLD,lose,Conservative,Flora Scarabello,"3,698",9.2,-4.7
+Glasgow Central,S14000029,SNP HOLD,lose,Liberal Democrat,Ewan Hoyle,"1,952",4.9,+2.0
+Glasgow Central,S14000029,SNP HOLD,lose,Green,Elaine Gallagher,"1,429",3.6,+3.6
+Glenrothes,S14000036,SNP HOLD,win,Scottish National Party,Peter Grant,"21,234",51.1,+8.3
+Glenrothes,S14000036,SNP HOLD,lose,Labour,Pat Egan,"9,477",22.8,-11.9
+Glenrothes,S14000036,SNP HOLD,lose,Conservative,Amy Thomson,"6,920",16.7,-2.8
+Glenrothes,S14000036,SNP HOLD,lose,Liberal Democrat,Jane Ann Liston,"2,639",6.4,+3.4
+Glenrothes,S14000036,SNP HOLD,lose,The Brexit Party,Victor Farrell,"1,276",3.1,+3.1
+Gordon,S14000037,SNP GAIN FROM CON,win,Scottish National Party,Richard Thomson,"23,885",42.7,+6.9
+Gordon,S14000037,SNP GAIN FROM CON,lose,Conservative,Colin Clark,"23,066",41.3,+0.5
+Gordon,S14000037,SNP GAIN FROM CON,lose,Liberal Democrat,James Oates,"5,913",10.6,-1.0
+Gordon,S14000037,SNP GAIN FROM CON,lose,Labour,Heather Herbert,"3,052",5.5,-6.4
+Inverclyde,S14000038,SNP HOLD,win,Scottish National Party,Ronnie Cowan,"19,295",48.4,+9.9
+Inverclyde,S14000038,SNP HOLD,lose,Labour,Martin McCluskey,"11,783",29.5,-8.0
+Inverclyde,S14000038,SNP HOLD,lose,Conservative,Haroun Malik,"6,265",15.7,-5.8
+Inverclyde,S14000038,SNP HOLD,lose,Liberal Democrat,Jacci Stoyle,"2,560",6.4,+3.9
+"Inverness, Nairn, Badenoch & Strathspey",S14000039,SNP HOLD,win,Scottish National Party,Drew Hendry,"26,247",47.9,+8.0
+"Inverness, Nairn, Badenoch & Strathspey",S14000039,SNP HOLD,lose,Conservative,Fiona Fawcett,"15,807",28.8,-1.7
+"Inverness, Nairn, Badenoch & Strathspey",S14000039,SNP HOLD,lose,Liberal Democrat,Robert Rixson,"5,846",10.7,-1.6
+"Inverness, Nairn, Badenoch & Strathspey",S14000039,SNP HOLD,lose,Labour,Lewis Whyte,"4,123",7.5,-8.7
+"Inverness, Nairn, Badenoch & Strathspey",S14000039,SNP HOLD,lose,Green,Ariane Burgess,"1,709",3.1,+3.1
+"Inverness, Nairn, Badenoch & Strathspey",S14000039,SNP HOLD,lose,The Brexit Party,Les Durance,"1,078",2.0,+2.0
+Linlithgow & Falkirk East,S14000043,SNP HOLD,win,Scottish National Party,Martyn Day,"25,551",44.2,+7.9
+Linlithgow & Falkirk East,S14000043,SNP HOLD,lose,Conservative,Charles Kennedy,"14,285",24.7,-4.4
+Linlithgow & Falkirk East,S14000043,SNP HOLD,lose,Labour,Wendy Milne,"10,517",18.2,-12.9
+Linlithgow & Falkirk East,S14000043,SNP HOLD,lose,Liberal Democrat,Sally Pattle,"4,393",7.6,+4.2
+Linlithgow & Falkirk East,S14000043,SNP HOLD,lose,The Brexit Party,Marc Bozza,"1,257",2.2,+2.2
+Linlithgow & Falkirk East,S14000043,SNP HOLD,lose,Green,Gillian Mackay,"1,184",2.0,+2.0
+Linlithgow & Falkirk East,S14000043,SNP HOLD,lose,Veterans and People's Party,Mark Tunnicliff,588,1.0,+1.0
+Kilmarnock & Loudoun,S14000040,SNP HOLD,win,Scottish National Party,Alan Brown,"24,216",50.8,+8.5
+Kilmarnock & Loudoun,S14000040,SNP HOLD,lose,Conservative,Caroline Hollins,"11,557",24.3,-2.4
+Kilmarnock & Loudoun,S14000040,SNP HOLD,lose,Labour,Kevin McGregor,"9,009",18.9,-9.9
+Kilmarnock & Loudoun,S14000040,SNP HOLD,lose,Liberal Democrat,Edward Thornley,"2,444",5.1,+3.0
+Kilmarnock & Loudoun,S14000040,SNP HOLD,lose,Libertarian,Stef Johnstone,405,0.9,+0.9
+Kirkcaldy & Cowdenbeath,S14000041,SNP GAIN FROM LAB,win,Scottish National Party,Neale Hanvey,"16,568",35.2,-1.0
+Kirkcaldy & Cowdenbeath,S14000041,SNP GAIN FROM LAB,lose,Labour,Lesley Laird,"15,325",32.6,-4.2
+Kirkcaldy & Cowdenbeath,S14000041,SNP GAIN FROM LAB,lose,Conservative,Kathleen Leslie,"9,449",20.1,-3.2
+Kirkcaldy & Cowdenbeath,S14000041,SNP GAIN FROM LAB,lose,Liberal Democrat,Gill Cole-Hamilton,"2,903",6.2,+3.8
+Kirkcaldy & Cowdenbeath,S14000041,SNP GAIN FROM LAB,lose,Green,Scott Rutherford,"1,628",3.5,+3.5
+Kirkcaldy & Cowdenbeath,S14000041,SNP GAIN FROM LAB,lose,The Brexit Party,Mitch William,"1,132",2.4,+2.4
+Lanark & Hamilton East,S14000042,SNP HOLD,win,Scottish National Party,Angela Crawley,"22,243",41.9,+9.3
+Lanark & Hamilton East,S14000042,SNP HOLD,lose,Conservative,Shona Haslam,"17,056",32.1,+0.1
+Lanark & Hamilton East,S14000042,SNP HOLD,lose,Labour,Andrew Hilland,"10,736",20.2,-11.6
+Lanark & Hamilton East,S14000042,SNP HOLD,lose,Liberal Democrat,Jane Pickard,"3,037",5.7,+3.3
+Livingston,S14000044,SNP HOLD,win,Scottish National Party,Hannah Bardell,"25,617",46.9,+6.9
+Livingston,S14000044,SNP HOLD,lose,Conservative,Damian Timson,"12,182",22.3,-2.1
+Livingston,S14000044,SNP HOLD,lose,Labour,Caitlin Kane,"11,915",21.8,-10.9
+Livingston,S14000044,SNP HOLD,lose,Liberal Democrat,Charles Dundas,"3,457",6.3,+3.5
+Livingston,S14000044,SNP HOLD,lose,Green,Cameron Glasgow,"1,421",2.6,+2.6
+Midlothian,S14000045,SNP GAIN FROM LAB,win,Scottish National Party,Owen Thompson,"20,033",41.5,+7.1
+Midlothian,S14000045,SNP GAIN FROM LAB,lose,Labour,Danielle Rowley,"14,328",29.7,-6.6
+Midlothian,S14000045,SNP GAIN FROM LAB,lose,Conservative,Rebecca Fraser,"10,467",21.7,-3.7
+Midlothian,S14000045,SNP GAIN FROM LAB,lose,Liberal Democrat,Steve Arrundale,"3,393",7.0,+3.2
+Moray,S14000046,CON HOLD,win,Conservative,Douglas Ross,"22,112",45.3,-2.3
+Moray,S14000046,CON HOLD,lose,Scottish National Party,Laura Mitchell,"21,599",44.2,+5.4
+Moray,S14000046,CON HOLD,lose,Labour,Jo Kirby,"2,432",5.0,-6.0
+Moray,S14000046,CON HOLD,lose,Liberal Democrat,Fiona Campbell Trevor,"2,269",4.6,+2.4
+Moray,S14000046,CON HOLD,lose,UKIP,Rob Scorer,413,0.8,+0.8
+Motherwell & Wishaw,S14000047,SNP HOLD,win,Scottish National Party,Marion Fellows,"20,622",46.4,+7.9
+Motherwell & Wishaw,S14000047,SNP HOLD,lose,Labour,Angela Feeney,"14,354",32.3,-5.4
+Motherwell & Wishaw,S14000047,SNP HOLD,lose,Conservative,Meghan Gallacher,"7,150",16.1,-4.2
+Motherwell & Wishaw,S14000047,SNP HOLD,lose,Liberal Democrat,Christopher Wilson,"1,675",3.8,+1.6
+Motherwell & Wishaw,S14000047,SNP HOLD,lose,UKIP,Neil Wilson,619,1.4,+0.1
+Ayrshire North & Arran,S14000048,SNP HOLD,win,Scottish National Party,Patricia Gibson,"23,376",48.5,+9.6
+Ayrshire North & Arran,S14000048,SNP HOLD,lose,Conservative,David Rocks,"14,855",30.8,-0.4
+Ayrshire North & Arran,S14000048,SNP HOLD,lose,Labour,Cameron Gilmore,"6,702",13.9,-13.6
+Ayrshire North & Arran,S14000048,SNP HOLD,lose,Liberal Democrat,Louise Young,"2,107",4.4,+2.0
+Ayrshire North & Arran,S14000048,SNP HOLD,lose,Green,David Nairn,"1,114",2.3,+2.3
+Fife North East,S14000049,LD GAIN FROM SNP,win,Liberal Democrat,Wendy Chamberlain,"19,763",43.1,+10.2
+Fife North East,S14000049,LD GAIN FROM SNP,lose,Scottish National Party,Stephen Gethins,"18,447",40.2,+7.3
+Fife North East,S14000049,LD GAIN FROM SNP,lose,Conservative,Tony Miklinski,"5,961",13.0,-11.1
+Fife North East,S14000049,LD GAIN FROM SNP,lose,Labour,Wendy Haynes,"1,707",3.7,-5.9
+Ochil & South Perthshire,S14000050,SNP GAIN FROM CON,win,Scottish National Party,John Nicolson,"26,882",46.5,+11.2
+Ochil & South Perthshire,S14000050,SNP GAIN FROM CON,lose,Conservative,Luke Graham,"22,384",38.7,-2.8
+Ochil & South Perthshire,S14000050,SNP GAIN FROM CON,lose,Labour,Lorna Robertson,"4,961",8.6,-11.4
+Ochil & South Perthshire,S14000050,SNP GAIN FROM CON,lose,Liberal Democrat,Iliyan Stefanov,"3,204",5.5,+2.3
+Ochil & South Perthshire,S14000050,SNP GAIN FROM CON,lose,UKIP,Stuart Martin,382,0.7,+0.7
+Orkney & Shetland,S14000051,LD HOLD,win,Liberal Democrat,Alistair Carmichael,"10,381",44.8,-3.8
+Orkney & Shetland,S14000051,LD HOLD,lose,Scottish National Party,Robert Leslie,"7,874",34.0,+5.0
+Orkney & Shetland,S14000051,LD HOLD,lose,Conservative,Jennifer Fairbairn,"2,287",9.9,+1.2
+Orkney & Shetland,S14000051,LD HOLD,lose,Labour,Coilla Drake,"1,550",6.7,-4.8
+Orkney & Shetland,S14000051,LD HOLD,lose,The Brexit Party,Robert Smith,900,3.9,+3.9
+Orkney & Shetland,S14000051,LD HOLD,lose,Independent,David Barnard,168,0.7,+0.7
+Rutherglen & Hamilton West,S14000056,SNP GAIN FROM LAB,win,Scottish National Party,Margaret Ferrier,"23,775",44.2,+7.2
+Rutherglen & Hamilton West,S14000056,SNP GAIN FROM LAB,lose,Labour,Ged Killen,"18,545",34.5,-3.1
+Rutherglen & Hamilton West,S14000056,SNP GAIN FROM LAB,lose,Conservative,Lynne Nailon,"8,054",15.0,-4.6
+Rutherglen & Hamilton West,S14000056,SNP GAIN FROM LAB,lose,Liberal Democrat,Mark McGeever,"2,791",5.2,+0.9
+Rutherglen & Hamilton West,S14000056,SNP GAIN FROM LAB,lose,UKIP,Janice Mackay,629,1.2,+0.3
+Paisley & Renfrewshire North,S14000052,SNP HOLD,win,Scottish National Party,Gavin Newlands,"23,353",47.0,+9.6
+Paisley & Renfrewshire North,S14000052,SNP HOLD,lose,Labour,Alison Taylor,"11,451",23.0,-8.8
+Paisley & Renfrewshire North,S14000052,SNP HOLD,lose,Conservative,Julie Pirone,"11,217",22.6,-5.0
+Paisley & Renfrewshire North,S14000052,SNP HOLD,lose,Liberal Democrat,Ross Stalker,"3,661",7.4,+4.2
+Paisley & Renfrewshire South,S14000053,SNP HOLD,win,Scottish National Party,Mhairi Black,"21,637",50.2,+9.6
+Paisley & Renfrewshire South,S14000053,SNP HOLD,lose,Labour,Moira Ramage,"10,958",25.4,-9.1
+Paisley & Renfrewshire South,S14000053,SNP HOLD,lose,Conservative,Mark Dougan,"7,571",17.6,-1.9
+Paisley & Renfrewshire South,S14000053,SNP HOLD,lose,Liberal Democrat,Jack Clark,"2,918",6.8,+3.6
+Perth & North Perthshire,S14000054,SNP HOLD,win,Scottish National Party,Pete Wishart,"27,362",50.6,+8.3
+Perth & North Perthshire,S14000054,SNP HOLD,lose,Conservative,Angus Forbes,"19,812",36.6,-5.6
+Perth & North Perthshire,S14000054,SNP HOLD,lose,Liberal Democrat,Peter Barrett,"3,780",7.0,+2.0
+Perth & North Perthshire,S14000054,SNP HOLD,lose,Labour,Angela Bretherton,"2,471",4.6,-5.8
+Perth & North Perthshire,S14000054,SNP HOLD,lose,The Brexit Party,Stuart Powell,651,1.2,+1.2
+"Ross, Skye & Lochaber",S14000055,SNP HOLD,win,Scottish National Party,Ian Blackford,"19,263",48.3,+8.1
+"Ross, Skye & Lochaber",S14000055,SNP HOLD,lose,Liberal Democrat,Craig Harrow,"9,820",24.6,+3.7
+"Ross, Skye & Lochaber",S14000055,SNP HOLD,lose,Conservative,Gavin Berkenheger,"6,900",17.3,-7.6
+"Ross, Skye & Lochaber",S14000055,SNP HOLD,lose,Labour,John Erskine,"2,448",6.1,-6.1
+"Ross, Skye & Lochaber",S14000055,SNP HOLD,lose,The Brexit Party,Kate Brownlie,710,1.8,+1.8
+"Ross, Skye & Lochaber",S14000055,SNP HOLD,lose,Christian Party,Donald Boyd,460,1.2,+1.2
+"Ross, Skye & Lochaber",S14000055,SNP HOLD,lose,Scottish Family Party,Richard Lucas,268,0.7,+0.7
+Stirling,S14000057,SNP GAIN FROM CON,win,Scottish National Party,Alyn Smith,"26,895",51.1,+14.4
+Stirling,S14000057,SNP GAIN FROM CON,lose,Conservative,Stephen Kerr,"17,641",33.5,-3.5
+Stirling,S14000057,SNP GAIN FROM CON,lose,Labour,Mary Ross,"4,275",8.1,-14.0
+Stirling,S14000057,SNP GAIN FROM CON,lose,Liberal Democrat,Fayzan Rehman,"2,867",5.4,+2.0
+Stirling,S14000057,SNP GAIN FROM CON,lose,Green,Bryan Quinn,942,1.8,+1.8
+Aberdeenshire West & Kincardine,S14000058,CON HOLD,win,Conservative,Andrew Bowie,"22,752",42.7,-5.2
+Aberdeenshire West & Kincardine,S14000058,CON HOLD,lose,Scottish National Party,Fergus Mutch,"21,909",41.1,+8.6
+Aberdeenshire West & Kincardine,S14000058,CON HOLD,lose,Liberal Democrat,John Waddell,"6,253",11.7,+3.1
+Aberdeenshire West & Kincardine,S14000058,CON HOLD,lose,Labour,Paddy Coffield,"2,431",4.6,-6.5
+Dunbartonshire West,S14000059,SNP HOLD,win,Scottish National Party,Martin Docherty,"22,396",49.6,+6.8
+Dunbartonshire West,S14000059,SNP HOLD,lose,Labour,Jean Anne Mitchell,"12,843",28.5,-9.2
+Dunbartonshire West,S14000059,SNP HOLD,lose,Conservative,Alix Mathieson,"6,436",14.3,-2.9
+Dunbartonshire West,S14000059,SNP HOLD,lose,Liberal Democrat,Jennifer Lang,"1,890",4.2,+1.9
+Dunbartonshire West,S14000059,SNP HOLD,lose,Green,Peter Connolly,867,1.9,+1.9
+Dunbartonshire West,S14000059,SNP HOLD,lose,Independent,Andrew Muir,708,1.6,+1.6

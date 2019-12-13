@@ -1,0 +1,217 @@
+constituency,code,direction,win_lose,party,candidate,votes,perc_share,change
+Ynys Mon,W07000041,CON GAIN FROM LAB,win,Conservative,Virginia Crosbie,"12,959",35.5,+7.7
+Ynys Mon,W07000041,CON GAIN FROM LAB,lose,Labour,Mary Roberts,"10,991",30.1,-11.8
+Ynys Mon,W07000041,CON GAIN FROM LAB,lose,Plaid Cymru,Aled ap Dafydd,"10,418",28.5,+1.1
+Ynys Mon,W07000041,CON GAIN FROM LAB,lose,The Brexit Party,Helen Jenner,"2,184",6.0,+6.0
+Swansea West,W07000047,LAB HOLD,win,Labour,Geraint Davies,"18,493",51.6,-8.1
+Swansea West,W07000047,LAB HOLD,lose,Conservative,James Price,"10,377",29.0,-2.4
+Swansea West,W07000047,LAB HOLD,lose,Liberal Democrat,Michael O'Carroll,"2,993",8.4,+4.9
+Swansea West,W07000047,LAB HOLD,lose,Plaid Cymru,Gwyn Williams,"1,984",5.5,+1.4
+Swansea West,W07000047,LAB HOLD,lose,The Brexit Party,Peter Hopkins,"1,983",5.5,+5.5
+Swansea East,W07000048,LAB HOLD,win,Labour,Carolyn Harris,"17,405",51.8,-11.6
+Swansea East,W07000048,LAB HOLD,lose,Conservative,Denise Howard,"9,435",28.1,+2.1
+Swansea East,W07000048,LAB HOLD,lose,The Brexit Party,Tony Willicombe,"2,842",8.5,+8.5
+Swansea East,W07000048,LAB HOLD,lose,Plaid Cymru,Geraint Havard,"1,905",5.7,+0.9
+Swansea East,W07000048,LAB HOLD,lose,Liberal Democrat,Chloe Hutchinson,"1,409",4.2,+2.4
+Swansea East,W07000048,LAB HOLD,lose,Green,Chris Evans,583,1.7,+0.7
+Delyn,W07000042,CON GAIN FROM LAB,win,Conservative,Rob Roberts,"16,756",43.7,+2.2
+Delyn,W07000042,CON GAIN FROM LAB,lose,Labour,David Hanson,"15,891",41.4,-10.8
+Delyn,W07000042,CON GAIN FROM LAB,lose,Liberal Democrat,Andrew Parkhurst,"2,346",6.1,+3.5
+Delyn,W07000042,CON GAIN FROM LAB,lose,The Brexit Party,Nigel Williams,"1,971",5.1,+5.1
+Delyn,W07000042,CON GAIN FROM LAB,lose,Plaid Cymru,Paul Rowlinson,"1,406",3.7,-0.1
+Alyn & Deeside,W07000043,LAB HOLD,win,Labour,Mark Tami,"18,271",42.5,-9.6
+Alyn & Deeside,W07000043,LAB HOLD,lose,Conservative,Sanjoy Sen,"18,058",42.0,+1.6
+Alyn & Deeside,W07000043,LAB HOLD,lose,The Brexit Party,Simon Wall,"2,678",6.2,+6.2
+Alyn & Deeside,W07000043,LAB HOLD,lose,Liberal Democrat,Donna Lalek,"2,548",5.9,+3.5
+Alyn & Deeside,W07000043,LAB HOLD,lose,Plaid Cymru,Susan Hills,"1,453",3.4,+0.8
+Wrexham,W07000044,CON GAIN FROM LAB,win,Conservative,Sarah Atherton,"15,199",45.3,+1.7
+Wrexham,W07000044,CON GAIN FROM LAB,lose,Labour,Mary Wimbury,"13,068",39.0,-9.9
+Wrexham,W07000044,CON GAIN FROM LAB,lose,Plaid Cymru,Carrie Harper,"2,151",6.4,+1.4
+Wrexham,W07000044,CON GAIN FROM LAB,lose,Liberal Democrat,Tim Sly,"1,447",4.3,+1.9
+Wrexham,W07000044,CON GAIN FROM LAB,lose,The Brexit Party,Ian Berkeley-Hurst,"1,222",3.6,+3.6
+Wrexham,W07000044,CON GAIN FROM LAB,lose,Green,Duncan Rees,445,1.3,+1.3
+Llanelli,W07000045,LAB HOLD,win,Labour,Nia Griffith,"16,125",42.2,-11.3
+Llanelli,W07000045,LAB HOLD,lose,Conservative,Tamara Reay,"11,455",30.0,+6.3
+Llanelli,W07000045,LAB HOLD,lose,Plaid Cymru,Mari Arthur,"7,048",18.4,+0.2
+Llanelli,W07000045,LAB HOLD,lose,The Brexit Party,Susan Boucher,"3,605",9.4,+9.4
+Gower,W07000046,LAB HOLD,win,Labour,Tonia Antoniazzi,"20,208",45.4,-4.4
+Gower,W07000046,LAB HOLD,lose,Conservative,Francesca O'Brien,"18,371",41.3,-1.4
+Gower,W07000046,LAB HOLD,lose,Plaid Cymru,John Davies,"2,288",5.1,+1.5
+Gower,W07000046,LAB HOLD,lose,Liberal Democrat,Sam Bennett,"2,236",5.0,+3.0
+Gower,W07000046,LAB HOLD,lose,The Brexit Party,Rob Ross,"1,379",3.1,+3.1
+Aberavon,W07000049,LAB HOLD,win,Labour,Stephen Kinnock,"17,008",53.8,-14.3
+Aberavon,W07000049,LAB HOLD,lose,Conservative,Charlotte Lang,"6,518",20.6,+2.9
+Aberavon,W07000049,LAB HOLD,lose,The Brexit Party,Glenda Davies,"3,108",9.8,+9.8
+Aberavon,W07000049,LAB HOLD,lose,Plaid Cymru,Nigel Hunt,"2,711",8.6,+0.3
+Aberavon,W07000049,LAB HOLD,lose,Liberal Democrat,Sheila Kingston-Jones,"1,072",3.4,+1.6
+Aberavon,W07000049,LAB HOLD,lose,Independent,Captain Beany,731,2.3,+2.3
+Aberavon,W07000049,LAB HOLD,lose,Green,Giorgia Finney,450,1.4,+1.4
+Cardiff Central,W07000050,LAB HOLD,win,Labour,Jo Stevens,"25,605",61.2,-1.2
+Cardiff Central,W07000050,LAB HOLD,lose,Conservative,Meirion Jenkins,"8,426",20.1,+0.3
+Cardiff Central,W07000050,LAB HOLD,lose,Liberal Democrat,Bablin Molik,"6,298",15.1,+1.6
+Cardiff Central,W07000050,LAB HOLD,lose,The Brexit Party,Gareth Pearce,"1,006",2.4,+2.4
+Cardiff Central,W07000050,LAB HOLD,lose,Gwlad Gwlad,Sian Caiach,280,0.7,+0.7
+Cardiff Central,W07000050,LAB HOLD,lose,Independent,Akil Kata,119,0.3,+0.3
+Cardiff Central,W07000050,LAB HOLD,lose,Socialist Party of Great Britain,Brian Johnson,88,0.2,+0.2
+Cardiff North,W07000051,LAB HOLD,win,Labour,Anna McMorrin,"26,064",49.5,-0.6
+Cardiff North,W07000051,LAB HOLD,lose,Conservative,Mo Ali,"19,082",36.2,-5.9
+Cardiff North,W07000051,LAB HOLD,lose,Liberal Democrat,Rhys Taylor,"3,580",6.8,+3.5
+Cardiff North,W07000051,LAB HOLD,lose,Plaid Cymru,Steffan Webb,"1,606",3.0,-0.3
+Cardiff North,W07000051,LAB HOLD,lose,The Brexit Party,Chris Butler,"1,311",2.5,+2.5
+Cardiff North,W07000051,LAB HOLD,lose,Green,Michael Cope,820,1.6,+1.6
+Cardiff North,W07000051,LAB HOLD,lose,Independent,Richard Jones,203,0.4,+0.4
+Rhondda,W07000052,LAB HOLD,win,Labour,Chris Bryant,"16,115",54.4,-9.7
+Rhondda,W07000052,LAB HOLD,lose,Conservative,Hannah Jarvis,"4,675",15.8,+5.7
+Rhondda,W07000052,LAB HOLD,lose,Plaid Cymru,Branwen Cennard,"4,069",13.7,-8.6
+Rhondda,W07000052,LAB HOLD,lose,The Brexit Party,John Watkins,"3,733",12.6,+12.6
+Rhondda,W07000052,LAB HOLD,lose,Liberal Democrat,Rodney Berman,612,2.1,+1.2
+Rhondda,W07000052,LAB HOLD,lose,Green,Shaun Thomas,438,1.5,+1.5
+Torfaen,W07000053,LAB HOLD,win,Labour,Nick Thomas-Symonds,"15,546",41.8,-15.8
+Torfaen,W07000053,LAB HOLD,lose,Conservative,Graham Smith,"11,804",31.8,+0.8
+Torfaen,W07000053,LAB HOLD,lose,The Brexit Party,David Thomas,"5,742",15.4,+15.4
+Torfaen,W07000053,LAB HOLD,lose,Liberal Democrat,John Miller,"1,831",4.9,+2.7
+Torfaen,W07000053,LAB HOLD,lose,Plaid Cymru,Morgan Bowler-Brown,"1,441",3.9,-1.5
+Torfaen,W07000053,LAB HOLD,lose,Green,Andrew Heygate-Browne,812,2.2,+2.2
+Newport East,W07000055,LAB HOLD,win,Labour,Jessica Morden,"16,125",44.4,-12.1
+Newport East,W07000055,LAB HOLD,lose,Conservative,Mark Brown,"14,133",39.0,+4.2
+Newport East,W07000055,LAB HOLD,lose,The Brexit Party,Julie Price,"2,454",6.8,+6.8
+Newport East,W07000055,LAB HOLD,lose,Liberal Democrat,Mike Hamilton,"2,121",5.8,+3.2
+Newport East,W07000055,LAB HOLD,lose,Plaid Cymru,Cameron Wixcey,872,2.4,0.0
+Newport East,W07000055,LAB HOLD,lose,Green,Peter Varley,577,1.6,+1.6
+Bridgend,W07000073,CON GAIN FROM LAB,win,Conservative,Jamie Wallis,"18,193",43.1,+3.3
+Bridgend,W07000073,CON GAIN FROM LAB,lose,Labour,Madeleine Moon,"17,036",40.3,-10.3
+Bridgend,W07000073,CON GAIN FROM LAB,lose,Liberal Democrat,Jonathan Pratt,"2,368",5.6,+3.5
+Bridgend,W07000073,CON GAIN FROM LAB,lose,Plaid Cymru,Leanne Lewis,"2,013",4.8,+0.6
+Bridgend,W07000073,CON GAIN FROM LAB,lose,The Brexit Party,Robert Morgan,"1,811",4.3,+4.3
+Bridgend,W07000073,CON GAIN FROM LAB,lose,Green,Alex Harris,815,1.9,+1.9
+Monmouth,W07000054,CON HOLD,win,Conservative,David Davies,"26,160",52.1,-1.0
+Monmouth,W07000054,CON HOLD,lose,Labour,Yvonne Murphy,"16,178",32.2,-4.4
+Monmouth,W07000054,CON HOLD,lose,Liberal Democrat,Alison Willott,"4,909",9.8,+5.6
+Monmouth,W07000054,CON HOLD,lose,Green,Ian Chandler,"1,353",2.7,+0.8
+Monmouth,W07000054,CON HOLD,lose,Plaid Cymru,Hugh Kocan,"1,182",2.4,-0.3
+Monmouth,W07000054,CON HOLD,lose,Independent,Martyn Ford,435,0.9,+0.9
+Carmarthen East & Dinefwr,W07000067,PC HOLD,win,Plaid Cymru,Jonathan Edwards,"15,939",38.9,-0.4
+Carmarthen East & Dinefwr,W07000067,PC HOLD,lose,Conservative,Havard Hughes,"14,130",34.5,+8.2
+Carmarthen East & Dinefwr,W07000067,PC HOLD,lose,Labour,Maria Carroll,"8,622",21.0,-8.8
+Carmarthen East & Dinefwr,W07000067,PC HOLD,lose,The Brexit Party,Peter Prosser,"2,311",5.6,+5.6
+Brecon & Radnorshire,W07000068,CON WIN,win,Conservative,Fay Jones,"21,958",53.1,+4.6
+Brecon & Radnorshire,W07000068,CON WIN,lose,Liberal Democrat,Jane Dodds,"14,827",35.9,+6.7
+Brecon & Radnorshire,W07000068,CON WIN,lose,Labour,Tomos Davies,"3,944",9.5,-8.2
+Brecon & Radnorshire,W07000068,CON WIN,lose,Monster Raving Loony Party,Lady Lily The Pink,345,0.8,+0.8
+Brecon & Radnorshire,W07000068,CON WIN,lose,Christian Party,Jeff Green,245,0.6,+0.6
+Newport West,W07000056,LAB WIN,win,Labour,Ruth Jones,"18,977",43.7,-8.6
+Newport West,W07000056,LAB WIN,lose,Conservative,Matthew Evans,"18,075",41.6,+2.3
+Newport West,W07000056,LAB WIN,lose,Liberal Democrat,Ryan Jones,"2,565",5.9,+3.7
+Newport West,W07000056,LAB WIN,lose,The Brexit Party,Cameron Edwards,"1,727",4.0,+4.0
+Newport West,W07000056,LAB WIN,lose,Plaid Cymru,Jonathan Clark,"1,187",2.7,+0.3
+Newport West,W07000056,LAB WIN,lose,Green,Amelia Womack,902,2.1,+0.9
+Cynon Valley,W07000070,LAB HOLD,win,Labour,Beth Winter,"15,533",51.4,-9.6
+Cynon Valley,W07000070,LAB HOLD,lose,Conservative,Pauline Church,"6,711",22.2,+2.8
+Cynon Valley,W07000070,LAB HOLD,lose,The Brexit Party,Rebecca Rees-Evans,"3,045",10.1,+10.1
+Cynon Valley,W07000070,LAB HOLD,lose,Plaid Cymru,Geraint Benney,"2,562",8.5,-5.3
+Cynon Valley,W07000070,LAB HOLD,lose,The Cynon Valley Party,Andrew Chainey,"1,322",4.4,+4.4
+Cynon Valley,W07000070,LAB HOLD,lose,Liberal Democrat,Steve Bray,949,3.1,+1.3
+Cynon Valley,W07000070,LAB HOLD,lose,Social Democratic Party,Ian Mclean,114,0.4,+0.4
+Arfon,W07000057,PC HOLD,win,Plaid Cymru,Hywel Williams,"13,134",45.2,+4.3
+Arfon,W07000057,PC HOLD,lose,Labour,Steffie Williams Roberts,"10,353",35.6,-4.9
+Arfon,W07000057,PC HOLD,lose,Conservative,Gonul Daniels,"4,428",15.2,-1.1
+Arfon,W07000057,PC HOLD,lose,The Brexit Party,Gary Gribben,"1,159",4.0,+4.0
+Merthyr Tydfil & Rhymney,W07000071,LAB HOLD,win,Labour,Gerald Jones,"16,913",52.4,-14.3
+Merthyr Tydfil & Rhymney,W07000071,LAB HOLD,lose,Conservative,Sara Jones,"6,307",19.6,+1.5
+Merthyr Tydfil & Rhymney,W07000071,LAB HOLD,lose,The Brexit Party,Colin Jones,"3,604",11.2,+11.2
+Merthyr Tydfil & Rhymney,W07000071,LAB HOLD,lose,Plaid Cymru,Mark Evans,"2,446",7.6,-0.6
+Merthyr Tydfil & Rhymney,W07000071,LAB HOLD,lose,Independent,David Hughes,"1,860",5.8,+5.8
+Merthyr Tydfil & Rhymney,W07000071,LAB HOLD,lose,Liberal Democrat,Brendan D'Cruz,"1,116",3.5,+1.0
+Aberconwy,W07000058,CON HOLD,win,Conservative,Robin Millar,"14,687",46.1,+1.5
+Aberconwy,W07000058,CON HOLD,lose,Labour,Emily Owen,"12,653",39.7,-2.9
+Aberconwy,W07000058,CON HOLD,lose,Plaid Cymru,Lisa Goodier,"2,704",8.5,-1.4
+Aberconwy,W07000058,CON HOLD,lose,Liberal Democrat,Jason Edwards,"1,821",5.7,+2.8
+Clwyd West,W07000059,CON HOLD,win,Conservative,David Jones,"20,403",50.7,+2.7
+Clwyd West,W07000059,CON HOLD,lose,Labour,Jo Thomas,"13,656",34.0,-5.6
+Clwyd West,W07000059,CON HOLD,lose,Plaid Cymru,Elfed Williams,"3,907",9.7,+0.1
+Clwyd West,W07000059,CON HOLD,lose,Liberal Democrat,David Wilkins,"2,237",5.6,+2.9
+Vale of Clwyd,W07000060,CON GAIN FROM LAB,win,Conservative,James Davies,"17,270",46.4,+2.3
+Vale of Clwyd,W07000060,CON GAIN FROM LAB,lose,Labour,Chris Ruane,"15,443",41.5,-8.7
+Vale of Clwyd,W07000060,CON GAIN FROM LAB,lose,Plaid Cymru,Glenn Swingler,"1,552",4.2,+0.2
+Vale of Clwyd,W07000060,CON GAIN FROM LAB,lose,The Brexit Party,Peter Dain,"1,477",4.0,+4.0
+Vale of Clwyd,W07000060,CON GAIN FROM LAB,lose,Liberal Democrat,Gavin Scott,"1,471",4.0,+2.2
+Dwyfor Meirionnydd,W07000061,PC HOLD,win,Plaid Cymru,Liz Saville Roberts,"14,447",48.3,+3.2
+Dwyfor Meirionnydd,W07000061,PC HOLD,lose,Conservative,Tomos Davies,"9,707",32.4,+3.3
+Dwyfor Meirionnydd,W07000061,PC HOLD,lose,Labour,Graham Hogg,"3,998",13.4,-7.3
+Dwyfor Meirionnydd,W07000061,PC HOLD,lose,The Brexit Party,Louise Hughes,"1,776",5.9,+5.9
+Clwyd South,W07000062,CON GAIN FROM LAB,win,Conservative,Simon Baynes,"16,222",44.7,+5.6
+Clwyd South,W07000062,CON GAIN FROM LAB,lose,Labour,Susan Elan Jones,"14,983",41.3,-9.4
+Clwyd South,W07000062,CON GAIN FROM LAB,lose,Plaid Cymru,Chris Allen,"2,137",5.9,-0.2
+Clwyd South,W07000062,CON GAIN FROM LAB,lose,Liberal Democrat,Calum Davies,"1,496",4.1,+2.2
+Clwyd South,W07000062,CON GAIN FROM LAB,lose,The Brexit Party,Jamie Adams,"1,468",4.0,+4.0
+Montgomeryshire,W07000063,CON HOLD,win,Conservative,Craig Williams,"20,020",58.5,+6.7
+Montgomeryshire,W07000063,CON HOLD,lose,Liberal Democrat,Kishan Devani,"7,882",23.0,-2.2
+Montgomeryshire,W07000063,CON HOLD,lose,Labour,Kait Duerden,"5,585",16.3,+0.4
+Montgomeryshire,W07000063,CON HOLD,lose,Gwlad Gwlad,Gwyn Wigley Evans,727,2.1,+2.1
+Ceredigion,W07000064,PC HOLD,win,Plaid Cymru,Ben Lake,"15,208",37.9,+8.7
+Ceredigion,W07000064,PC HOLD,lose,Conservative,Amanda Jenner,"8,879",22.1,+3.8
+Ceredigion,W07000064,PC HOLD,lose,Liberal Democrat,Mark Williams,"6,975",17.4,-11.6
+Ceredigion,W07000064,PC HOLD,lose,Labour,Dinah Mulholland,"6,317",15.8,-4.4
+Ceredigion,W07000064,PC HOLD,lose,The Brexit Party,Gethin James,"2,063",5.1,+5.1
+Ceredigion,W07000064,PC HOLD,lose,Green,Chris Simpson,663,1.7,+0.3
+Preseli Pembrokeshire,W07000065,CON HOLD,win,Conservative,Stephen Crabb,"21,381",50.4,+7.0
+Preseli Pembrokeshire,W07000065,CON HOLD,lose,Labour,Philippa Thompson,"16,319",38.5,-4.2
+Preseli Pembrokeshire,W07000065,CON HOLD,lose,Plaid Cymru,Cris Tomos,"2,776",6.5,+0.1
+Preseli Pembrokeshire,W07000065,CON HOLD,lose,Liberal Democrat,Tom Hughes,"1,943",4.6,+2.0
+Carmarthen West & Pembrokeshire South,W07000066,CON HOLD,win,Conservative,Simon Hart,"22,183",52.7,+5.9
+Carmarthen West & Pembrokeshire South,W07000066,CON HOLD,lose,Labour,Marc Tierney,"14,438",34.3,-5.2
+Carmarthen West & Pembrokeshire South,W07000066,CON HOLD,lose,Plaid Cymru,Rhys Thomas,"3,633",8.6,-0.7
+Carmarthen West & Pembrokeshire South,W07000066,CON HOLD,lose,Liberal Democrat,Alistair Cameron,"1,860",4.4,+2.2
+Neath,W07000069,LAB HOLD,win,Labour,Christina Rees,"15,920",43.3,-13.4
+Neath,W07000069,LAB HOLD,lose,Conservative,Jon Burns,"10,283",28.0,+4.3
+Neath,W07000069,LAB HOLD,lose,Plaid Cymru,Daniel Williams,"4,495",12.2,-1.7
+Neath,W07000069,LAB HOLD,lose,The Brexit Party,Simon Briscoe,"3,184",8.7,+8.7
+Neath,W07000069,LAB HOLD,lose,Liberal Democrat,Adrian Kingston-Jones,"1,485",4.0,+2.1
+Neath,W07000069,LAB HOLD,lose,Green,Megan Lloyd,728,2.0,+2.0
+Neath,W07000069,LAB HOLD,lose,Independent,Philip Rogers,594,1.6,+1.6
+Neath,W07000069,LAB HOLD,lose,Social Democratic Party,Carl Williams,67,0.2,+0.2
+Blaenau Gwent,W07000072,LAB HOLD,win,Labour,Nick Smith,"14,862",49.2,-8.8
+Blaenau Gwent,W07000072,LAB HOLD,lose,The Brexit Party,Richard Taylor,"6,215",20.6,+20.6
+Blaenau Gwent,W07000072,LAB HOLD,lose,Conservative,Laura Jones,"5,749",19.0,+4.3
+Blaenau Gwent,W07000072,LAB HOLD,lose,Plaid Cymru,Peredur Owen Griffiths,"1,722",5.7,-15.5
+Blaenau Gwent,W07000072,LAB HOLD,lose,Liberal Democrat,Chelsea-Marie Annett,"1,285",4.3,+3.3
+Blaenau Gwent,W07000072,LAB HOLD,lose,Green,Stephen Priestnall,386,1.3,+1.3
+Ogmore,W07000074,LAB HOLD,win,Labour,Chris Elmore,"17,602",49.7,-12.7
+Ogmore,W07000074,LAB HOLD,lose,Conservative,Sadie Vidal,"9,797",27.7,+2.5
+Ogmore,W07000074,LAB HOLD,lose,The Brexit Party,Christine Roach,"2,991",8.5,+8.5
+Ogmore,W07000074,LAB HOLD,lose,Plaid Cymru,Luke Fletcher,"2,919",8.2,+0.7
+Ogmore,W07000074,LAB HOLD,lose,Liberal Democrat,Anita Davies,"1,460",4.1,+2.5
+Ogmore,W07000074,LAB HOLD,lose,Green,Tom Muller,621,1.8,+1.8
+Pontypridd,W07000075,LAB HOLD,win,Labour,Alex Davies-Jones,"17,381",44.5,-10.9
+Pontypridd,W07000075,LAB HOLD,lose,Conservative,Sam Trask,"11,494",29.4,+2.7
+Pontypridd,W07000075,LAB HOLD,lose,Plaid Cymru,Fflur Elin,"4,990",12.8,+2.5
+Pontypridd,W07000075,LAB HOLD,lose,The Brexit Party,Steve Bayliss,"2,917",7.5,+7.5
+Pontypridd,W07000075,LAB HOLD,lose,Independent,Mike Powell,"1,792",4.6,+4.6
+Pontypridd,W07000075,LAB HOLD,lose,Independent,Sue Prior,337,0.9,+0.9
+Pontypridd,W07000075,LAB HOLD,lose,Independent,Jonathan Bishop,149,0.4,+0.4
+Caerphilly,W07000076,LAB HOLD,win,Labour,Wayne David,"18,018",44.9,-9.5
+Caerphilly,W07000076,LAB HOLD,lose,Conservative,Jane Pratt,"11,185",27.9,+2.7
+Caerphilly,W07000076,LAB HOLD,lose,Plaid Cymru,Lindsay Whittle,"6,424",16.0,+1.6
+Caerphilly,W07000076,LAB HOLD,lose,The Brexit Party,Nathan Gill,"4,490",11.2,+11.2
+Islwyn,W07000077,LAB HOLD,win,Labour,Chris Evans,"15,356",44.7,-14.1
+Islwyn,W07000077,LAB HOLD,lose,Conservative,Gavin Chambers,"9,892",28.8,+1.6
+Islwyn,W07000077,LAB HOLD,lose,The Brexit Party,James Wells,"4,834",14.1,+14.1
+Islwyn,W07000077,LAB HOLD,lose,Plaid Cymru,Zoe Hammond,"2,286",6.7,-0.9
+Islwyn,W07000077,LAB HOLD,lose,Liberal Democrat,Jo Watkins,"1,313",3.8,+1.9
+Islwyn,W07000077,LAB HOLD,lose,Green,Catherine Linstrum,669,1.9,+1.9
+Vale of Glamorgan,W07000078,CON HOLD,win,Conservative,Alun Cairns,"27,305",49.8,+2.3
+Vale of Glamorgan,W07000078,CON HOLD,lose,Labour,Belinda Loveluck-Edwards,"23,743",43.3,-0.1
+Vale of Glamorgan,W07000078,CON HOLD,lose,Green,Anthony Slaughter,"3,251",5.9,+5.2
+Vale of Glamorgan,W07000078,CON HOLD,lose,Gwlad Gwlad,Laurence Williams,508,0.9,+0.9
+Cardiff West,W07000079,LAB HOLD,win,Labour,Kevin Brennan,"23,908",51.8,-4.9
+Cardiff West,W07000079,LAB HOLD,lose,Conservative,Carolyn Webster,"12,922",28.0,-1.8
+Cardiff West,W07000079,LAB HOLD,lose,Plaid Cymru,Boyd Clack,"3,864",8.4,-1.1
+Cardiff West,W07000079,LAB HOLD,lose,Liberal Democrat,Callum Littlemore,"2,731",5.9,+3.3
+Cardiff West,W07000079,LAB HOLD,lose,The Brexit Party,Nick Mullins,"1,619",3.5,+3.5
+Cardiff West,W07000079,LAB HOLD,lose,Green,David Griffin,"1,133",2.5,+2.5
+Cardiff South & Penarth,W07000080,LAB HOLD,win,Labour,Stephen Doughty,"27,382",54.1,-5.4
+Cardiff South & Penarth,W07000080,LAB HOLD,lose,Conservative,Philippa Broom,"14,645",29.0,-1.2
+Cardiff South & Penarth,W07000080,LAB HOLD,lose,Liberal Democrat,Dan Schmeising,"2,985",5.9,+3.1
+Cardiff South & Penarth,W07000080,LAB HOLD,lose,Plaid Cymru,Nasir Adam,"2,386",4.7,+0.5
+Cardiff South & Penarth,W07000080,LAB HOLD,lose,The Brexit Party,Tim Price,"1,999",4.0,+4.0
+Cardiff South & Penarth,W07000080,LAB HOLD,lose,Green,Ken Barker,"1,182",2.3,+1.3
